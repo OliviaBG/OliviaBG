@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Olivia BG and I am studying Biochemistry at Imperial College London
+I am currently learning Python to enhance my carer as a Data Analyst 
+How to reach me; email= ob422@ic.ac.uk
+Pronouns: she/her 
+Fun fact: I have 3 guinea pigs
 
 <!--
 **OliviaBG/OliviaBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
